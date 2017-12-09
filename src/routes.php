@@ -1,2 +1,2 @@
 <?php
-Route::get('helloworld', 'Allen\HelloWorld\HelloWorldController@index');
+Route::get('helloworld', 'Liaoqinglei\HelloWorld\HelloWorldController@index');
