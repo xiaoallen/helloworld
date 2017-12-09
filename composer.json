@@ -7,7 +7,9 @@
         }
     ],
     "require": {},
-    "psr-4": {
-        "Liaoqinglei\\HelloWorld\\": "src/"
+    "autoload": {
+        "psr-4": {
+            "Liaoqinglei\\HelloWorld\\": "src/"
+        }
     }
 }
