@@ -8,6 +8,6 @@
     ],
     "require": {},
     "psr-4": {
-        "Allen\\HelloWorld\\": "src/"
+        "Liaoqinglei\\HelloWorld\\": "src/"
     }
 }
