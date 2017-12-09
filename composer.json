@@ -1,0 +1,13 @@
+{
+    "name": "liaoqinglei/helloword",
+    "authors": [
+        {
+            "name": "xiaoallen",
+            "email": "249790097@qq.com"
+        }
+    ],
+    "require": {},
+    "psr-4": {
+        "Allen\\HelloWorld\\": "src/"
+    }
+}
